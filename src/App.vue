@@ -6,6 +6,7 @@
 </template>
 
 <script>
+//Jake Miller
 import HelloWorld from './components/HelloWorld.vue'
 
 export default {
